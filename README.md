@@ -1,6 +1,6 @@
 # Introduction to Node
 
-Course Repo: https://github.com/wtlin1228/intro-node-js?organization=wtlin1228&organization=wtlin1228
+Course Repo: https://github.com/wtlin1228/intro-node-js
 
 Course Slide: https://slides.com/scotups/deck
 
